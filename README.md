@@ -47,6 +47,12 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Salesforce Government Cloud](https://www.salesforce.com/solutions/industries/government/) – CRM and case management for government agencies.
 - [OpenGov](https://opengov.com/) – Cloud software for budgeting, performance, and transparency.
 - [Tyler Technologies](https://www.tylertech.com/) – Integrated software solutions for local and state governments.
+- [City Council Meetings Scraper (Legistar)](https://apify.com/publicrecords/legistar-meetings-scraper) - City council meetings, agenda items and documents for any Legistar city (Apify Actor, API + MCP).
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [EU TED Tenders Scraper](https://apify.com/publicrecords/eu-ted-notices-scraper) - EU procurement notices from TED: buyer, CPV, value, deadline, link (Apify Actor, API + MCP).
+- [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
 
 ## Service Delivery & Case Management
 
